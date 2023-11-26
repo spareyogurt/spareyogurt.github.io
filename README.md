@@ -1,2 +1,2 @@
-# RF246.github.io
-RF's cool website.
+# RF246
+Welcome to my website.
