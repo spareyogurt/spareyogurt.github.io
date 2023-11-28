@@ -1,4 +1,6 @@
-<link rel="shortcut icon" type="image/png" href="favicon.png">
-
-# RF246
-RF's cool website.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" style="width: 80%;"/>
+</p>
+# Hello!
+Hi there! My name's RF246. That's a pseudonym. Feel free to call me RF!</br>
+I code stuff in almost always C# and then upload said stuff onto GitHub. I'm a self-learner.</br>
