@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://i.ibb.co/sCP9c3M/banner.png" style="width: 80%;"/>
-</p>
+![](https://raw.githubusercontent.com/RF246/RF246.github.io/main/banner.png)
 
 # Hello!
 
 Hi there! My name's RF246. Feel free to call me RF!
 I code stuff in almost always C# and then upload said stuff onto GitHub. I'm a self-learner.
 
-<p align="right">
-  <img src="https://i.ibb.co/HKzYRjj/sit.png" />
-</p>
+![](https://raw.githubusercontent.com/RF246/RF246.github.io/main/sit.png)
