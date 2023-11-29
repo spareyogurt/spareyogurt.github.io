@@ -1,8 +1,12 @@
-![](https://raw.githubusercontent.com/RF246/RF246.github.io/main/banner.png)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RF246</title>
+  </head>
+  <body>
 
-# Hello!
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
 
-Hi there! My name's RF246. Feel free to call me RF!
-I code stuff in almost always C# and then upload said stuff onto GitHub. I'm a self-learner.
-
-![](https://raw.githubusercontent.com/RF246/RF246.github.io/main/sit.png)
+  </body>
+</html>
